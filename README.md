@@ -28,5 +28,5 @@ Implementaremos una pagina web capaz de hacer un examen el cual arrojara como re
 **Fase 1:** Estructuración de la plataforma web, integración de componentes visuales, definición de estilos y publicación del repositorio base.
 
 ## Autor
-**Luis Saavedra** lsaavedra@mail.colsam.edu.co
+**Jesus Alvarez** Jalvarez@mail.colsam.edu.co
 
